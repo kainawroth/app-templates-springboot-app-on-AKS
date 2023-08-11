@@ -23,7 +23,7 @@ param adminPassword string
 
 // aks parameters
 param aksClusterName string = 'aks-cluster'
-param k8sVersion string = '1.19.7'
+param k8sVersion string = '1.26.6'
 param adminPublicKey string
 param adminGroupObjectIDs array = []
 @allowed([
