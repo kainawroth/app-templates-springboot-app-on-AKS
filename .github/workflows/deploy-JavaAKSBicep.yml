@@ -13,8 +13,8 @@
 
 name: Build and Deploy Application
 env:
-  DEPLOYMENT_NAME: "petclinicaks"
-  DEPLOYMENT_REGION: "eastus"
+  DEPLOYMENT_NAME: "petclinicakstest"
+  DEPLOYMENT_REGION: "westus3"
   ACR_NAME: "petclinicaksacr"
   CLUSTER_NAME: "aks-cluster"
 
