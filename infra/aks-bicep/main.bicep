@@ -1,8 +1,5 @@
 targetScope='subscription'
-//
-// resource group parameters
-paratargetScope='subscription'
-//
+
 // resource group parameters
 param rgName string = 'petclinicaks-rg'
 param location string = 'eastus'
